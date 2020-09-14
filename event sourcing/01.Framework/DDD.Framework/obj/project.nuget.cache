@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1puJnjPwRhMywRt2IKw4beyJ6s5kYWKFKRnPICSrqM+LZcEDM4JIYmzalPm1M7lfFpH1wD/J8Y9YMhUHhgy0TA==",
+  "success": true,
+  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
