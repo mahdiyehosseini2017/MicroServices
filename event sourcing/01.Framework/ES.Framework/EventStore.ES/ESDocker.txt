@@ -1,0 +1,2 @@
+docker run -d --name eventstore -it -p 2113:2113 -p 1113:1113 -e EVENTSTORE_DEV=true  eventstore/eventstore:20.6.0-buster-slim
+(Tags can be changed)
