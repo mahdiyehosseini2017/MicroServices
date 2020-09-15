@@ -11,7 +11,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using Marten;
+using Marten.Events;
 
 namespace customerManagement.Endpoints.WebApi
 {
@@ -34,12 +35,18 @@ namespace customerManagement.Endpoints.WebApi
             // eventStoreConnection.ConnectAsync().GetAwaiter().GetResult();
             // services.AddSingleton(eventStoreConnection);
             // services.AddScoped<IEventStore, ESEventStore>();
-          
+
+            services.AddScoped<IEventStore, MartenEventStore>();
+
+            StoreOptions options = new StoreOptions();
+            options.Connection(Configuration.GetValue<string>("Marten:ConnectionString"));
+            services.AddMarten(options);
+
             services.AddControllers();
             services.AddScoped<CustomerService>();
             services.AddScoped<ICustomerRepository, CustomerRepository>();
-            services.AddScoped<IEventStore, SqlEventStore>();
-            
+            // services.AddScoped<IEventStore, SqlEventStore>();
+
             services.AddSwaggerGen();
         }
 

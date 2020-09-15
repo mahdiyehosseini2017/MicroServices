@@ -10,3 +10,15 @@ F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Fr
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.csproj.CopyComplete
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.dll
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\bin\Debug\netstandard2.0\EventStore.SqlServer.deps.json
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\bin\Debug\netstandard2.0\EventStore.SqlServer.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\bin\Debug\netstandard2.0\EventStore.SqlServer.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\bin\Debug\netstandard2.0\DDD.Framework.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\bin\Debug\netstandard2.0\DDD.Framework.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.AssemblyInfoInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.AssemblyInfo.cs
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.csproj.CoreCompileInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.csproj.CopyComplete
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.SqlServer\obj\Debug\netstandard2.0\EventStore.SqlServer.pdb

@@ -7,3 +7,12 @@ F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Fr
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.csproj.CoreCompileInputs.cache
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.dll
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\bin\Debug\netstandard2.0\DDD.Framework.deps.json
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\bin\Debug\netstandard2.0\DDD.Framework.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\bin\Debug\netstandard2.0\DDD.Framework.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.AssemblyInfoInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.AssemblyInfo.cs
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.csproj.CoreCompileInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\DDD.Framework\obj\Debug\netstandard2.0\DDD.Framework.pdb

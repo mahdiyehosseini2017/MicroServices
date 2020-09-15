@@ -10,3 +10,15 @@ F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Fr
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.csproj.CopyComplete
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.dll
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\bin\Debug\netstandard2.0\EventStore.ES.deps.json
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\bin\Debug\netstandard2.0\EventStore.ES.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\bin\Debug\netstandard2.0\EventStore.ES.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\bin\Debug\netstandard2.0\DDD.Framework.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\bin\Debug\netstandard2.0\DDD.Framework.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.AssemblyInfoInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.AssemblyInfo.cs
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.csproj.CoreCompileInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.csproj.CopyComplete
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\01.Framework\ES.Framework\EventStore.ES\obj\Debug\netstandard2.0\EventStore.ES.pdb

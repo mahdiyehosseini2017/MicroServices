@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VAfqppsflxsv5+kL/NPZV7Ub1tC0pW3lczq7Zgm1B7AO4WVYH8LGb87MwUrkViHS5V3W8c2TCwZrxdQZU6a9CQ==",
+  "dgSpecHash": "5sKtJLnVObxC1pYF21+l/cNNBpfoqTK9IxhCuK4hf7IKVb9hBrZ4Cl7lX6+3IqDFnuuSbpSpHD0icgPzZfjwVw==",
   "success": true,
-  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.SqlServer\\EventStore.SqlServer.csproj",
+  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.SqlServer\\EventStore.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

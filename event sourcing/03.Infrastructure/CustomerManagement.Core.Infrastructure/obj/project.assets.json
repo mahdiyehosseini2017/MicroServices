@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
+      "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
       "projectName": "CustomerManagement.Core.Infrastructure",
-      "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
+      "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\obj\\",
+      "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -326,11 +326,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
-              "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj"
+            "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
+              "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj"
             },
-            "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\02.Core\\CustomerManagement.Core.Domain\\CustomerManagement.Core.Domain.csproj": {
-              "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\02.Core\\CustomerManagement.Core.Domain\\CustomerManagement.Core.Domain.csproj"
+            "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\02.Core\\CustomerManagement.Core.Domain\\CustomerManagement.Core.Domain.csproj": {
+              "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\02.Core\\CustomerManagement.Core.Domain\\CustomerManagement.Core.Domain.csproj"
             }
           }
         }

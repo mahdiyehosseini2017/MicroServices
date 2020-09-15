@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj": {}
+    "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj": {}
   },
   "projects": {
-    "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
+    "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj",
+        "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj",
         "projectName": "DDD.Framework",
-        "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj",
+        "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\obj\\",
+        "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj": {
+    "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
+        "projectUniqueName": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
         "projectName": "EventStore.ES",
-        "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
+        "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\obj\\",
+        "outputPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -94,8 +94,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
-                "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\DDD.Framework\\DDD.Framework.csproj"
+              "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj": {
+                "projectPath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\DDD.Framework\\DDD.Framework.csproj"
               }
             }
           }

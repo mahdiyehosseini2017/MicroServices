@@ -5,10 +5,12 @@
     <ProjectReference Include="..\..\03.Infrastructure\CustomerManagement.Core.Infrastructure\CustomerManagement.Core.Infrastructure.csproj" />
     <ProjectReference Include="..\..\01.Framework\ES.Framework\EventStore.SqlServer\EventStore.SqlServer.csproj" />
     <ProjectReference Include="..\..\01.Framework\ES.Framework\EventStore.ES\EventStore.ES.csproj" />
+    <ProjectReference Include="..\..\01.Framework\ES.Framework\EventStore.Marten\EventStore.Marten.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="EventStore.Client" Version="20.6.0" />
+    <PackageReference Include="Marten" Version="3.13.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
   </ItemGroup>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t8hvTb7IL+WgmGDcZW573CgcvvT2B7lS+oOskTkJ3gIr7cVpMRcGVJ0Y3x9Ck0nNYSn9MshKIeME9wPzSDtDsA==",
+  "dgSpecHash": "JtQ3v6RSt1QtfJItRNXYTauI7IB9voPdUj8Eyyii3Os0U6VBvWUtMzgXzdAMbh/Ub04QuISmpoLUyGkWyHd32Q==",
   "success": true,
-  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
+  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\03.Infrastructure\\CustomerManagement.Core.Infrastructure\\CustomerManagement.Core.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

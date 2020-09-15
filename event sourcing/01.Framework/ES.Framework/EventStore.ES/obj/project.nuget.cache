@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pA3U4lkQ63Q77Ud6J45qaO5fV5fRBxYoRphSTtWp6MN7wj2HGdD/Y7ZQz2jM++azJ9okjgFnODtE3Lb6708zg==",
+  "dgSpecHash": "HTJnGlpLyS790wsyH3xiJ9xJWfdQR/JJQPM9plvfqAnWh2I7bHVA05umNf3O2KTFZhruZV2JlpNjG7Y2t4HGKg==",
   "success": true,
-  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\CustomerManagementProject\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
+  "projectFilePath": "F:\\programming\\micro service\\nikamooz\\my project\\Microservice\\event sourcing\\01.Framework\\ES.Framework\\EventStore.ES\\EventStore.ES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\eventstore.client\\20.6.0\\eventstore.client.20.6.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

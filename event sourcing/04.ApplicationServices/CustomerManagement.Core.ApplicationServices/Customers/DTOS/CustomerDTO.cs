@@ -21,7 +21,7 @@ public class CustomerDTO
     public string ZipCode { get; }
 
     public static implicit operator CustomerDTO(Customer entity) =>
-        new CustomerDTO(entity.Id.ToString(), entity.FirstName, entity.LastName, entity.Address.Street,
-                        entity.Address.City, entity.Address.Country, entity.Address.ZipCode);
+        new CustomerDTO(entity.Id.ToString(), entity.FirstName, entity.LastName, entity?.Address?.Street,
+                        entity?.Address?.City, entity?.Address?.Country, entity?.Address?.ZipCode);
 
 }

@@ -10,3 +10,15 @@ F:\programming\micro service\nikamooz\my project\CustomerManagementProject\02.Co
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.dll
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.pdb
 F:\programming\micro service\nikamooz\my project\CustomerManagementProject\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\bin\Debug\netstandard2.0\CustomerManagement.Core.Domain.deps.json
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\bin\Debug\netstandard2.0\CustomerManagement.Core.Domain.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\bin\Debug\netstandard2.0\CustomerManagement.Core.Domain.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\bin\Debug\netstandard2.0\DDD.Framework.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\bin\Debug\netstandard2.0\DDD.Framework.pdb
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.AssemblyInfoInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.AssemblyInfo.cs
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.csproj.CoreCompileInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.csproj.CopyComplete
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.dll
+F:\programming\micro service\nikamooz\my project\Microservice\event sourcing\02.Core\CustomerManagement.Core.Domain\obj\Debug\netstandard2.0\CustomerManagement.Core.Domain.pdb
