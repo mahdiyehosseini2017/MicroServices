@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dxXI4yMl6HRZteN/GrFh1BYG8HWZLYTC9uxp0zd+ZslC0ueF4cZSTiHxjOCp+LhLLCzKjWwYlLLJA1mPISfrA==",
+  "success": true,
+  "projectFilePath": "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\Testing.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\zamin.core.domain\\1.0.0-preview.1.0.0\\zamin.core.domain.1.0.0-preview.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

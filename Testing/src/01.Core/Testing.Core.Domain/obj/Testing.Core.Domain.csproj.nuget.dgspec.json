@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\Testing.Core.Domain.csproj": {}
+  },
+  "projects": {
+    "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\Testing.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\Testing.Core.Domain.csproj",
+        "projectName": "Testing.Core.Domain",
+        "projectPath": "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\Testing.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "f:\\programming\\micro service\\nikamooz\\my project\\Microservice\\Testing\\src\\01.Core\\Testing.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[1.0.0-Preview.1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

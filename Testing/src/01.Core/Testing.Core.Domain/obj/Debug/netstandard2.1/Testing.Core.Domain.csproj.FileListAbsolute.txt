@@ -1,0 +1,9 @@
+F:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.csprojAssemblyReference.cache
+F:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.AssemblyInfoInputs.cache
+F:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.AssemblyInfo.cs
+F:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.csproj.CoreCompileInputs.cache
+f:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\bin\Debug\netstandard2.1\Testing.Core.Domain.deps.json
+f:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\bin\Debug\netstandard2.1\Testing.Core.Domain.dll
+f:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\bin\Debug\netstandard2.1\Testing.Core.Domain.pdb
+f:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.dll
+f:\programming\micro service\nikamooz\my project\Microservice\Testing\src\01.Core\Testing.Core.Domain\obj\Debug\netstandard2.1\Testing.Core.Domain.pdb
